@@ -1,28 +1,7 @@
-<html>
-<head>
-    <title> Warmup site </title>
-</head>
-<body> 
-
-
-</body>
-
-<a href="https://www.youtube.com/watch?v=6ZdFlba6mts&list=LL&index=11" target="_blank"> Heres' a link </a>
-
-<img src="RaccoonWithCat.jpg" id="Pic">
-
-<ol>
-    <li>Salamanders </li>
-    <li> Gray Knights </li>
-    <li> Adeptus Custodes </li>
-    <li> Tau </li>
-</ol>
-
-<ul>
-    <li>AP literature </li>
-    <li> AP environmental science </li>
-    <li> AP united states government </li>
-    <li>AP statistics </li>
-
-</ul>
-</html>
+#Pic {
+   height: 200px;
+   width: 200px; 
+}
+body {
+    font-family: sans-serif;
+}
