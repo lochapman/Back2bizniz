@@ -1,5 +1,5 @@
-observe.addEventListener('click', makeItWork); 
 
+var observe = document.getElementByid("derp");
 function makeItWork() {
-    var observe = document.getElementByid("derp").innerHTML = "if there is Different text here, it worked";
+    observe.innerHTML = "if there is Different text here, it worked";
 }
