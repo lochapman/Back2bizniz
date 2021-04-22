@@ -18,3 +18,8 @@ function twoThing (guildedheights) {
 
 //you can pass strings as parameters instead, making it easier
 //
+
+//create a function that takes in three parameters: breed, age, and name and returns a string
+function adoptADoga () {
+  
+}
